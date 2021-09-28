@@ -30,7 +30,7 @@ St Link v2
 
 - Depois desse passo, selecione novamente o caminho, agora do outro arquivo (blackmagic-stlink.bin);
 
-- Coloque o endere;co como: 0x08002000 e clique em Start Programmer;
+- Coloque o endereço como: 0x08002000 e clique em Start Programmer;
 
 ![image](https://user-images.githubusercontent.com/47569587/135147562-9dce4ebf-29dc-4cef-afe3-99e2ff6f781c.png)
 
